@@ -5,6 +5,7 @@
 --%>
     <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
     <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
+    <link href="../../../2017-08-31 MVC Pattern/Class2Lab/web/Class2Lab-Main.css" rel="stylesheet" type="text/css"/>
     
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
@@ -12,7 +13,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>JSP/ EL Page</title>
     </head>
     <body>
         <c:set var="name" value="Collin" />
